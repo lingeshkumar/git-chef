@@ -1,5 +1,0 @@
-git
-chef
-docker
-jenkins
-nagios
